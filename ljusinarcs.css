@@ -1,0 +1,15 @@
+.path--background {
+  fill: none;
+  stroke: #0000D0;
+  stroke-width: 2px;
+}
+
+.path--foreground {
+  fill: rgb(0, 0, 208, 0.41);
+  color: ryb(0, 0, 208, 0.74);
+  }
+
+.label {
+  font: 24px sans-serif;
+  text-anchor: middle;
+}
