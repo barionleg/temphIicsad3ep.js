@@ -1,4 +1,4 @@
-var width = 960,
+var width = 1100,
     height = 500;
 
 var fields = [{
