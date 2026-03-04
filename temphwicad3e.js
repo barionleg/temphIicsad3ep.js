@@ -22,7 +22,7 @@ var fields = [{
        size: 7,
       label: "w",
       update: function(date) {
-          return date.getWeeks();
+          return date.getWeek();
          }
    },
     {
