@@ -12,6 +12,15 @@ på neTTet слышен какойтО Лэпет:
 
 https://uoxyc.github.io/temphicad3e.js/wikipa/Television-and-Short-Wave-World-1937-07-S.pdf
 
+___
+___
+
+ჸოლიფერი ამოხსნილია და რავალც მულტი სხევულის პრობლემას ქე რომ ეძახდნენ, და ტრუბალი და რაცხა რუცხები, მინამ არ ვოუხსნეს, ქე რომე ტრუბალიოთი = TRubAЛётი ... და ტრუბალი დიდი ხანია ე.წ. პრობლემა კი არ არის, არამედ ამოხსნაა მულტი სხეულთა თანაფარდობა და ნიხტ და ნიე ~~a few body problem~~  a few body effect or relacsion ... 
+
+ილ ლიлndström 
+
+Ulf Lundstr¨om
+med mindre till¨agg av Ilian H¨aggmark
 
 lokalt: H:/Users/B2/Pictures/Solar%20Audio/bAR_und_AiR_PreessuRE_bewegung_hastighetz/teoriSK1110_av_KTH_нтк.pdf
 
