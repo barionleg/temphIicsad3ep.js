@@ -12,6 +12,11 @@ på neTTet слышен какойтО Лэпет:
 
 https://uoxyc.github.io/temphicad3e.js/wikipa/Television-and-Short-Wave-World-1937-07-S.pdf
 
+
+lokalt: H:/Users/B2/Pictures/Solar%20Audio/bAR_und_AiR_PreessuRE_bewegung_hastighetz/teoriSK1110_av_KTH_нтк.pdf
+
+på nättet: https://uoxyc.github.io/temphicad3e.js/wikipa/teoriSK1110_av_KTH_нтк.pdf
+
 ХеракЛიгОлифbI: სახალისოა ის რომ ფიზიკა ქიმიის სახელობის ენად არც კი იციან ვისი გორისანჼი არიან და ის რომ ენად Ab© შემადგენელი ნაწილია ი, ჩემი ჩვენი საერთო გენეტიკვური ორპას ირაკლის ირაკოლიის იკრალი და სხვა ... საიდანაც ნაწარმოებია 
 იკრალია ანუ uKRAnuR Украйна УкраниЯ ... ДонецкЛис хазеви хазеби, CARA DENIS атстойникის ბასენგის შესართავებთან, რომელიც ვიზუალიზირებული მაქვს სხვადასხვა კომპ არტის ანუ ლევოჰარდო ვინიჩის ვოცნების ვიზუალიზაცია, დბარგენეტიკვური წვდომის მიხედვით ... 
 
