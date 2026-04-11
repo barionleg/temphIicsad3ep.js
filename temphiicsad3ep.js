@@ -50,7 +50,7 @@ var arc = d3.svg.arc()
     .outerRadius(width / 10.5 - 5)
     .startAngle(0)
     .endAngle(function(d) {
-      //  return (d.value / d.size) * 2 * 3.142857142857143;
+      //  return (d.value / d.size) * 2 * Math.PI; Math.Pi replaced by qPi value 3.142857142857143;
           return (d.value / d.size) * 2 * 3.142857142857143;
     });
 
