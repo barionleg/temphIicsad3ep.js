@@ -1,4 +1,4 @@
-/* temphiicsapd3e1.js for mini.html; rad 50: width / 30.5; rad 66:  30.5 * width;  */
+/* temphiicsapd3e1.js for mini.html; rad 50: width / 30.5; rad 66:  10.5 * width;  */
 var width = 430,
     height = 250;
 
