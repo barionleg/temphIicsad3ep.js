@@ -1,6 +1,6 @@
 /* temphiicsapd3e2.js  */
-var width = 96,
-    height = 50;
+var width = 430,
+    height = 250;
 
 var fields = [{
         value: 365,
