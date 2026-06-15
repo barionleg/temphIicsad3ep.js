@@ -1,4 +1,4 @@
-/* temphiicsapd3e4.js  rad 50: width / 20.5;  rad 66: 20.5 * width  */
+/* temphiicsapd3e3.js  rad 50: width / 20.5;  rad 66: 20.5 * width  */
 var width = 430,
     height = 250;
 
