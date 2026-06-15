@@ -1,6 +1,6 @@
 /* temphiicsapd3e.js for mini.html; rad 50: width / 1.5; rad 66:  1.5 * width;  */
-var width = 96,
-    height = 50;
+var width = 430,
+    height = 250;
 
 var fields = [{
         value: 365,
