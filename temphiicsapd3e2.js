@@ -1,4 +1,4 @@
-/* temphiicsapd3e2.js  */
+/* temphiicsapd3e3.js  rad 50: width / 20.5;  rad 66: 15.5 * width  */
 var width = 430,
     height = 250;
 
@@ -63,7 +63,7 @@ var field = svg.selectAll(".field")
     .data(fields)
     .enter().append("g")
     .attr("transform", function(d, i) {
-        return "translate(" + (i * 2 + 1.25) / 20.5 * width + "," + height / 2 + ")";
+        return "translate(" + (i * 2 + 1.25) / 15.5 * width + "," + height / 2 + ")";
     })
     .attr("class", "field");
 
