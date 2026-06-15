@@ -63,7 +63,7 @@ var field = svg.selectAll(".field")
     .data(fields)
     .enter().append("g")
     .attr("transform", function(d, i) {
-        return "translate(" + (i * 2 + 1.25) / 20.5 * width + "," + height / 2 + ")";
+        return "translate(" + (i * 2 + 1.25) / 15.5 * width + "," + height / 2 + ")";
     })
     .attr("class", "field");
 
