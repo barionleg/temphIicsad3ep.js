@@ -75,7 +75,7 @@ var path = field.append("path")
 
 var label = field.append("text")
     .attr("class", "label")
-    .attr("dy", ".35em");
+    .attr("dy", "3.5em");
 
 (function update() {
     var now = new Date();
