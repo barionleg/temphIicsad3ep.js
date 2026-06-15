@@ -46,8 +46,8 @@ var fields = [{
 var monthLength = [28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28];
 
 var arc = d3.svg.arc()
-    .innerRadius(width / 10.5 - 60)
-    .outerRadius(width / 10.5 - 5)
+    .innerRadius(width / 1.5 - 60)
+    .outerRadius(width / 1.5 - 5)
     .startAngle(0)
     .endAngle(function(d) {
       //  return (d.value / d.size) * 2 * Math.PI; Math.Pi replaced by qPi value 3.142857142857143;
@@ -62,7 +62,7 @@ var field = svg.selectAll(".field")
     .data(fields)
     .enter().append("g")
     .attr("transform", function(d, i) {
-        return "translate(" + (i * 2 + 1.25) / 10.5 * width + "," + height / 2 + ")";
+        return "translate(" + (i * 2 + 1.25) / 1.5 * width + "," + height / 2 + ")";
     })
     .attr("class", "field");
 
