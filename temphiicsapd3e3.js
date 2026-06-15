@@ -1,4 +1,4 @@
-/* temphiicsapd3e3.js  */
+/* temphiicsapd3e4.js  rad 50: width / 20.5;  rad 66: 20.5 * width  */
 var width = 430,
     height = 250;
 
@@ -47,8 +47,8 @@ var fields = [{
 var monthLength = [28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28];
 
 var arc = d3.svg.arc()
-    .innerRadius(width / 15.5 - 60)
-    .outerRadius(width / 15.5 - 5)
+    .innerRadius(width / 20.5 - 60)
+    .outerRadius(width / 20.5 - 5)
     .startAngle(0)
     .endAngle(function(d) {
       //  return (d.value / d.size) * 2 * Math.PI; Math.Pi replaced by qPi value 3.142857142857143;
