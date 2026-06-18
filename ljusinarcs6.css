@@ -1,10 +1,7 @@
 body {
   position: absolute;
-  left: 100px;
+  left: 0px;
   top: 0px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 .path--background {
   fill: none;
