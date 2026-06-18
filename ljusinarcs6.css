@@ -1,9 +1,7 @@
 body {
   position: absolute;
-  left: 0px;
+  left: 100px;
   top: 0px;
-  margin-top:  -10%;
-  margin:   10px 50px 20px;
   display: flex;
   justify-content: center;
   align-items: center;
