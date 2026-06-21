@@ -6,7 +6,7 @@ body {
 }
 .path--background {
   fill: none;
-  stroke: D00000;
+  stroke: #616665;
   stroke-width: 2px;
 }
 
