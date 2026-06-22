@@ -1,7 +1,7 @@
 body {
   position: absolute;
-  left: 200px;
-  top: -100px;
+  left: 0px;
+  top: 0px;
 
 }
 .path--background {
@@ -18,5 +18,4 @@ body {
 .label {
   font: 14px sans-serif;
   text-anchor: middle;
-  color: #fff;
 }
